@@ -2,30 +2,30 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'SarkonTampan', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 5, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
+    linkedin: '',
+    twitter: 'Aliyul Manan',
+    mastodon: '',
+    facebook: 'X Shan',
+    instagram: 'malasnulisnamapengguna',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'Ikhsan',
+    dev: 'Ikhsan',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://ikhsanmaner.my.id',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'ikhsanmaner@gmail.com',
   },
   resume: {
     fileUrl:
