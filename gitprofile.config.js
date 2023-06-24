@@ -22,7 +22,7 @@ const config = {
     dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
-    telegram: '@username_notfound_1',
+    telegram: 'username_notfound_1',
     website: 'https://ikhsanmaner.my.id',
     phone: '',
     email: 'ikhsanmaner@gmail.com',
@@ -47,7 +47,7 @@ const config = {
     },
     {
       company: 'Lahir kemuka bumi',
-      position: 'Lahir',
+      position: 'Saya dilahirkan',
       from: '23',
       to: 'Agustus 2006',
       companyLink: 'https://ikhsanmaner.my.id',
