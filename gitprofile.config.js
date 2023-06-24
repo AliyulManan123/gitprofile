@@ -18,11 +18,11 @@ const config = {
     instagram: 'malasnulisnamapengguna',
     dribbble: '',
     behance: '',
-    medium: 'Ikhsan',
-    dev: 'Ikhsan',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
-    telegram: '',
+    telegram: '@username_notfound_1',
     website: 'https://ikhsanmaner.my.id',
     phone: '',
     email: 'ikhsanmaner@gmail.com',
@@ -32,35 +32,25 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Mangan',
+    'Turu',
+    'Ngiseng',
+    'Dolanan'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Hari dimana saya lahir',
+      position: 'Ulang Tahun',
+      from: '23',
+      to: 'Agustus',
+      companyLink: 'https://ikhsanmaner.my.id',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Lahir kemuka bumi',
+      position: 'Lahir',
+      from: '23',
+      to: 'Agustus 2006',
+      companyLink: 'https://ikhsanmaner.my.id',
     },
   ],
   /* certifications: [
@@ -73,40 +63,40 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'MA Musthofawiyah',
+      degree: 'MA',
+      from: '2022',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'MTs Musthofawiyah',
+      degree: 'MTs',
+      from: '2019',
+      to: '2022',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'ShanBot',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'ShanBot sebuah bot WhatsApp yang dapat memudahkan umat manusia untuk berselancar diinternet khususnya diwhatsapp.',
+      imageUrl: 'https://telegra.ph/file/f7565082283bc3adaa157.jpg',
+      link: 'https://ikhsanmaner.my.id',
     },
     {
-      title: 'Project Name',
+      title: 'ShanAI',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'ShanAI adalah sebuah program pintar yang siap menjawab pertanyaan anda.',
+      imageUrl: 'https://telegra.ph/file/1d1e1c37e58b98a750730.jpg',
+      link: 'https://t.me/shanai_bot',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -118,7 +108,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'winter',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -179,10 +169,10 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://ikhsanmaner.my.id"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Portofolio</a> and ❤️`,
 };
 
 export default config;
