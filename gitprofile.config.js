@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'AliyulManan123', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 5, // How many projects to display.
+    limit: 4, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -12,9 +12,9 @@ const config = {
   },
   social: {
     linkedin: '',
-    twitter: 'Aliyul Manan',
+    twitter: 'AliyulManan',
     mastodon: '',
-    facebook: 'X Shan',
+    facebook: 'ciee.kepo.0',
     instagram: 'malasnulisnamapengguna',
     dribbble: '',
     behance: '',
@@ -23,7 +23,7 @@ const config = {
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: 'username_notfound_1',
-    website: 'https://ikhsanmaner.my.id',
+    website: 'ikhsanmaner.my.id',
     phone: '',
     email: 'ikhsanmaner@gmail.com',
   },
