@@ -24,7 +24,7 @@ const config = {
     skype: '',
     telegram: 'username_notfound_1',
     website: 'https://ikhsanmaner.my.id',
-    phone: 'https://wa.me/6283122390511?text=.owner',
+    phone: '',
     email: 'ikhsanmaner@gmail.com',
   },
   resume: {
