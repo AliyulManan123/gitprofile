@@ -23,8 +23,8 @@ const config = {
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: 'username_notfound_1',
-    website: 'ikhsanmaner.my.id',
-    phone: '',
+    website: 'https://ikhsanmaner.my.id',
+    phone: 'https://wa.me/6283122390511?text=.owner',
     email: 'ikhsanmaner@gmail.com',
   },
   resume: {
